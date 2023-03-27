@@ -18,7 +18,9 @@ retornar item por id, inserir novo item, editar item existente e deletar item ex
 ## Arquivo de Teste
 ### `node test.js`
 
-✔️ Técnicas e tecnologias utilizadas
+
+
+## ✔️ Técnicas e tecnologias utilizadas
 - ``Nodejs``
 - ``Express``
 - ``Nodemon`` 
@@ -26,7 +28,7 @@ retornar item por id, inserir novo item, editar item existente e deletar item ex
 
 
 
-# :hammer: Funcionalidades do projeto API Books
+## :hammer: Funcionalidades do projeto API Books
 
 - `Funcionalidade 1`: listar todos os itens da lista
 - `Funcionalidade 2`: listar item por id recebido

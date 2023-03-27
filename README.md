@@ -1,4 +1,4 @@
-# Proheto API de Livros
+# Projeto API de Livros
 API utilizando node, express, nodemon e biblioteca fs
 
 

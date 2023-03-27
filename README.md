@@ -2,7 +2,7 @@
 API utilizando node, express, nodemon e biblioteca fs
 
 
-<img src="https://img.shields.io/static/v1?label=node&message=software&color=blue&style=for-the-badge&logo=NODE"/>
+<img src="https://img.shields.io/static/v1?label=nodejs&message=software&color=blue&style=for-the-badge&logo=NODEJS"/>
 
 
 ### Status do Projeto: ✔️ (concluido)
